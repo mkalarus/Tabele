@@ -11,6 +11,13 @@ Tabelki w HTML5:
 </table>
 ```
 
+<table>
+ <tr>
+  <td>A<td>B
+<tr>
+  <td>A<td>B
+</table>
+
 ##TODO
 
 1. Opanować system [Gita][1]
