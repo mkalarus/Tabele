@@ -13,6 +13,6 @@ Tabelki w HTML5:
 ##TODO
 
 1.Opanować system [Gita][1].
-2.Zapoznać się z **Mardown**
+2.Zapoznać się z **Mardown**.
 
 [1]: http://git.-scm.com/
